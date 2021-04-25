@@ -9,5 +9,4 @@ public class PokemonRestApiConsumerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PokemonRestApiConsumerApplication.class, args);
 	}
-
 }
