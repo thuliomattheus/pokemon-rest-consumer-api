@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class PokemonRestApiConsumerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(PokemonRestApiConsumerApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(PokemonRestApiConsumerApplication.class, args);
+  }
 }
